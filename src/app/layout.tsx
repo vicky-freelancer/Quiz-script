@@ -20,11 +20,11 @@ export const metadata: Metadata = {
 		title: "Quizwinz - Play and Win Rewards",
 		description:
 			"Play engaging quizzes and earn reward coins. Test your knowledge and win exciting prizes with Quizwinz.",
-		url: "https://quizwinz.com",
+		url: "https://gamerspots.site/",
 		siteName: "Quizwinz",
 		images: [
 			{
-				url: "https://quizwinz.com/og-image.png",
+				url: "https://gamerspots.site/og-image.png",
 				width: 1200,
 				height: 630,
 				alt: "Quizwinz Logo",
