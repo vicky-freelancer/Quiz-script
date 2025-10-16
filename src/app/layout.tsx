@@ -80,7 +80,7 @@ export default function RootLayout({
 				<script
 					async
 					crossOrigin='anonymous'
-					src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXXXXX'
+					src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5553099128308860'
 				/>
 				<meta name='application-name' content='Quizwinz' />
 				<meta name='format-detection' content='telephone=no' />
